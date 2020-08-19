@@ -6,7 +6,7 @@
 
 <h2> Techniques of Handling Numerical Missing Values.</h2>  
 
-1- Mean/ Median/Mode replacement.  
+1- Mean/ Median/Mode imputation.  
 2- Random Sample Imputation.  
 3- Capturing NAN values with a new feature.  
 4- End of Distribution imputation.  
