@@ -4,5 +4,9 @@
  1- Data Missing at Random.  
  2- Data Not Missing at Random.
 
-<h2> Techniques of Handling Missing Values.  
-  
+<h2> Techniques of Handling Numerical Missing Values.  
+1- Mean/ Median/Mode replacement.  
+2- Random Sample Imputation.  
+3- Capturing NAN values with a new feature.  
+4- End of Distribution imputation.  
+5- Arbitrary imputation.
